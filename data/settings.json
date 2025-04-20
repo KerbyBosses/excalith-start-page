@@ -120,9 +120,9 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "Youtube",
+						"url": "https://www.youtube.com",
+						"icon": "mdi:youtube-play"
 					},
 					{
 						"name": "Keybase",
